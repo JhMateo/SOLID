@@ -22,3 +22,35 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+### IntelliJ IDEA ###
+SOLID/out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+SOLID/.idea/
+SOLID/SOLID.iml
+
+### Eclipse ###
+SOLID/.apt_generated
+SOLID/.classpath
+SOLID/.factorypath
+SOLID/.project
+SOLID/.settings
+SOLID/.springBeans
+SOLID/.sts4-cache
+SOLID/bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+SOLID/nbproject/private/
+SOLID/nbbuild/
+SOLID/dist/
+SOLID/nbdist/
+SOLID/.nb-gradle/
+
+### VS Code ###
+SOLID/.vscode/
+
+### Mac OS ###
+SOLID/.DS_Store
