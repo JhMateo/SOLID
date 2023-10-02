@@ -1,4 +1,4 @@
-package com.mateo.open.closed;
+package com.mateo.open.closed.good;
 
 public class Nequi implements MetodoDePago{
     public void realizarPago(double monto) {

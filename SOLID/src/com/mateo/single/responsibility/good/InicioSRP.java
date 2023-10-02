@@ -1,4 +1,4 @@
-package com.mateo.single.responsibility;
+package com.mateo.single.responsibility.good;
 
 public class InicioSRP {
     public static void main(String[] args) {

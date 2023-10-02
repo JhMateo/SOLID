@@ -1,4 +1,4 @@
-package com.mateo.single.responsibility;
+package com.mateo.single.responsibility.good;
 
 import java.util.Date;
 
